@@ -45,3 +45,11 @@ CycleOS is a planning assistant, not a medical tool. Users should avoid entering
 - Low-, medium- and high-capacity task packages
 - User-controlled cycle-context options
 - Longer-term learning from user-approved patterns
+
+- ## Try CycleOS
+
+You can try the live version here:
+
+[CycleOS Live Demo](PASTE_YOUR_RENDER_LINK_HERE)
+
+The app is hosted on Render's free plan, so it might take a minute to load if it hasn't been used recently.
